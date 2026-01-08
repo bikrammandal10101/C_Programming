@@ -1,0 +1,4 @@
+Student Information :
+Name: Bikram
+Age: 24
+CGPA: 81.17
